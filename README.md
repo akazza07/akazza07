@@ -23,6 +23,6 @@
 </div>
 <div align="center"> 
     
- 
+ ![snake gif](https://github.com/akazza07/akazza07/blob/output/github-snake-dark.svg)
 
 </div>
