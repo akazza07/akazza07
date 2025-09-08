@@ -17,12 +17,12 @@
 📬 You can reach me at : **[Here](https://www.linkedin.com/in/akash--rai/) always excited to collaborate on exiciting projects and contribute to the advancements of the field**
 
 </div>
-
+<!--
 <div align="center">
 <h2> My Contributions </h2> 
 </div>
 <div align="center"> 
-    
+ <!--   
  ![snake gif](https://github.com/akazza07/akazza07/blob/output/github-snake-dark.svg)
-
 </div>
+-->
